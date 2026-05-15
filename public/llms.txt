@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-831d97a2.zappy5.app
+https://example.com
 יובל רז מביא לחיים דמויות, עולמות וסיפורים דרך איור דיגיטלי וקומיקס ייחודי. אמנות גרפית שמדברת אל הלב — כנס וגלה את היקום היצירתי שלו.
 
 ### תיק עבודות
-https://-831d97a2.zappy5.app/portfolio
+https://example.com/portfolio
 תיק העבודות של יובל רז הוא חגיגה של קומיקס, איור עצמאי ועיצוב גרפי. כל יצירה מספרת סיפור — גלה את הטווח האמנותי המלא ותן לאמנות לדבר אליך.
 
 ### אודות
-https://-831d97a2.zappy5.app/about
+https://example.com/about
 מי עומד מאחורי הדמויות והסיפורים? הכר את יובל רז, מאייר ויוצר קומיקס עם חזון גרפי ייחודי, שמאמין שכל קו ועיפרון מספרים סיפור שלם. הכנס וגלה.
 
 ### צור קשר
-https://-831d97a2.zappy5.app/contact
+https://example.com/contact
 יש לך פרויקט, חלום או רעיון שמחכה לקבל צורה חזותית? צור קשר עם יובל רז עכשיו ותן לאיור דיגיטלי ולקומיקס מקצועי להפוך את הדמיון שלך למציאות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-831d97a2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-831d97a2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-831d97a2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-831d97a2.zappy5.app/contact
-- Endpoint: https://-831d97a2.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -75,6 +75,6 @@ Illustration & Comic Art
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-831d97a2.zappy5.app/sitemap.xml
-- Robots: https://-831d97a2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-831d97a2.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
