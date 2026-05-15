@@ -40,7 +40,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: yuvalraz770@gmail.com
+- Phone: +972533041923
+- Phone (tel): tel:+972533041923
 
 ### Contact form
 - URL: https://example.com/contact
