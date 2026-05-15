@@ -1,0 +1,80 @@
+# יובל רז - מאייר ויוצר — Generative Engine Optimization Map
+
+> A creative portfolio for an artist who works in both illustration and comic book creation. The brand centers around visual storytelling, artistic craftsmanship, and a unique graphic style. The site should serve as a showcase of their artistic universe, highlighting their range across standalone illustrations and sequential comic art.
+
+---
+
+## Pages
+
+### בית
+https://-831d97a2.zappy5.app
+יובל רז מביא לחיים דמויות, עולמות וסיפורים דרך איור דיגיטלי וקומיקס ייחודי. אמנות גרפית שמדברת אל הלב — כנס וגלה את היקום היצירתי שלו.
+
+### תיק עבודות
+https://-831d97a2.zappy5.app/portfolio
+תיק העבודות של יובל רז הוא חגיגה של קומיקס, איור עצמאי ועיצוב גרפי. כל יצירה מספרת סיפור — גלה את הטווח האמנותי המלא ותן לאמנות לדבר אליך.
+
+### אודות
+https://-831d97a2.zappy5.app/about
+מי עומד מאחורי הדמויות והסיפורים? הכר את יובל רז, מאייר ויוצר קומיקס עם חזון גרפי ייחודי, שמאמין שכל קו ועיפרון מספרים סיפור שלם. הכנס וגלה.
+
+### צור קשר
+https://-831d97a2.zappy5.app/contact
+יש לך פרויקט, חלום או רעיון שמחכה לקבל צורה חזותית? צור קשר עם יובל רז עכשיו ותן לאיור דיגיטלי ולקומיקס מקצועי להפוך את הדמיון שלך למציאות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-831d97a2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-831d97a2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-831d97a2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-831d97a2.zappy5.app/contact
+- Endpoint: https://-831d97a2.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יובל רז - מאייר ויוצר
+A creative portfolio for an artist who works in both illustration and comic book creation. The brand centers around visual storytelling, artistic craftsmanship, and a unique graphic style. The site should serve as a showcase of their artistic universe, highlighting their range across standalone illustrations and sequential comic art.
+
+## Target Audience
+- חובבי קומיקס
+- מוציאים לאור ועורכים
+- מנהליי אמנות
+- חובבי איור
+- לקוחות פרטיים
+
+## Industry
+Illustration & Comic Art
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-831d97a2.zappy5.app/sitemap.xml
+- Robots: https://-831d97a2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-831d97a2.zappy5.app/llms-full.txt
